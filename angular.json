@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "easy-jdbc-library-site"
+    }
+  },
+  "defaultProject": "easy-jdbc-library-site",
+  "cli": {
+    "analytics": "12a0702e-27a0-4ac2-80ab-c8c1b096df02"
+  }
 }
